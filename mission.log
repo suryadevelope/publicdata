@@ -1,0 +1,770 @@
+2024-02-15 21:30:48 - DEBUG - mav recv error: invalid MAVLink prefix '0'
+2024-02-15 21:30:48 - INFO - ArduCopter V4.4.4 (db53a28f)
+2024-02-15 21:30:48 - INFO - ChibiOS: 17a50e3a
+2024-02-15 21:30:48 - INFO - CubeOrangePlus 0047001F 3032510B 37363931
+2024-02-15 21:30:48 - INFO - RCOut: PWM:1-14
+2024-02-15 21:30:48 - INFO - IMU0: fast sampling enabled 2.0kHz
+2024-02-15 21:30:48 - INFO - IMU1: fast sampling enabled 9.0kHz/2.3kHz
+2024-02-15 21:30:48 - INFO - IMU2: fast sampling enabled 9.0kHz/2.3kHz
+2024-02-15 21:30:48 - INFO - Frame: QUAD/X
+2024-02-15 21:30:49 - DEBUG - Still waiting for data from vehicle: gps_0,parameters,attitude
+2024-02-15 21:30:50 - DEBUG - Still waiting for data from vehicle: parameters
+2024-02-15 21:30:51 - DEBUG - Still waiting for data from vehicle: parameters
+2024-02-15 21:30:52 - WARNING - Received data from 100
+2024-02-15 21:30:52 - DEBUG - sent 0.031,17.4644922, 78.5940627 , 94, 9
+2024-02-15 21:30:52 - DEBUG - sent 0.016,17.4644919, 78.5940623 , 94, 9
+2024-02-15 21:30:53 - WARNING - Timestamp comd=0 from 101 to 0 for arm state 0 via 101
+2024-02-15 21:30:54 - DEBUG - sent 0.4376311409999971,99, 0 , False
+2024-02-15 21:30:54 - DEBUG - sent -0.018,17.4644896, 78.5940633 , 94, 9
+2024-02-15 21:30:55 - WARNING - Timestamp comd=0 from 101 to 0 for arm state 0 via 101
+2024-02-15 21:30:56 - DEBUG - sent 0.6373944309999899,99, 0 , False
+2024-02-15 21:30:56 - DEBUG - sent -0.05,17.4644886, 78.594062 , 94, 9
+2024-02-15 21:30:57 - DEBUG - sent -0.049,17.4644887, 78.5940619 , 94, 9
+2024-02-15 21:30:57 - WARNING - Received data from 100
+2024-02-15 21:30:57 - DEBUG - sent -0.049,17.4644887, 78.5940618 , 94, 9
+2024-02-15 21:30:57 - WARNING - Received data from 100
+2024-02-15 21:30:58 - DEBUG - sent 0.3876448499999867,99, 0 , False
+2024-02-15 21:30:58 - WARNING - Received data from 100
+2024-02-15 21:30:58 - DEBUG - sent 0.23312246899999423,99, 0 , False
+2024-02-15 21:30:59 - DEBUG - sent 0.072,17.4644893, 78.5940609 , 94, 8
+2024-02-15 21:31:00 - WARNING - Timestamp comd=0 from 101 to 0 for arm state 0 via 101
+2024-02-15 21:31:01 - DEBUG - sent 0.4378881030000059,99, 0 , False
+2024-02-15 21:31:01 - DEBUG - sent 0.151,17.4644879, 78.5940585 , 94, 8
+2024-02-15 21:31:04 - WARNING - Timestamp comd=0 from 101 to 0 for arm state 0 via 101
+2024-02-15 21:31:05 - WARNING - Timestamp comd=0 from 101 to 0 for arm state 0 via 101
+2024-02-15 21:31:05 - DEBUG - sent 0.5883907879999981,99, 0 , False
+2024-02-15 21:31:05 - WARNING - Timestamp comd=0 from 101 to 0 for arm state 0 via 101
+2024-02-15 21:31:05 - DEBUG - sent 0.7355488219999984,99, 0 , False
+2024-02-15 21:31:05 - WARNING - Timestamp comd=0 from 101 to 0 for arm state 0 via 101
+2024-02-15 21:31:05 - DEBUG - sent 0.8387378820000038,99, 0 , False
+2024-02-15 21:31:05 - WARNING - Timestamp comd=0 from 101 to 0 for arm state 0 via 101
+2024-02-15 21:31:05 - DEBUG - sent 0.939355981999995,99, 0 , False
+2024-02-15 21:31:05 - WARNING - Timestamp comd=0 from 101 to 0 for arm state 0 via 101
+2024-02-15 21:31:05 - DEBUG - sent 0.050168189000004304,99, 0 , False
+2024-02-15 21:31:05 - WARNING - Timestamp comd=0 from 101 to 0 for arm state 0 via 101
+2024-02-15 21:31:05 - DEBUG - sent 0.2005171270000119,99, 0 , False
+2024-02-15 21:31:06 - DEBUG - sent 0.7337067610000076,99, 0 , False
+2024-02-15 21:31:07 - DEBUG - sent 0.231,17.4644871, 78.5940573 , 94, 9
+2024-02-15 21:31:07 - WARNING - Timestamp comd=0 from 101 to 0 for arm state 0 via 101
+2024-02-15 21:31:08 - DEBUG - sent 0.9386304059999873,99, 0 , False
+2024-02-15 21:31:09 - DEBUG - sent 0.197,17.4644886, 78.5940573 , 94, 8
+2024-02-15 21:31:09 - DEBUG - sent 0.23819649300000378,99, 0 , False
+2024-02-15 21:31:09 - WARNING - Timestamp comd=0 from 101 to 0 for arm state 0 via 101
+2024-02-15 21:31:09 - DEBUG - sent 0.2883136140000033,99, 0 , False
+2024-02-15 21:31:09 - WARNING - Timestamp comd=0 from 101 to 0 for arm state 0 via 101
+2024-02-15 21:31:10 - WARNING - Timestamp comd=0 from 101 to 0 for arm state 0 via 101
+2024-02-15 21:31:10 - DEBUG - sent 0.28843337199998587,99, 0 , False
+2024-02-15 21:31:11 - DEBUG - sent 0.213,17.4644894, 78.5940577 , 94, 8
+2024-02-15 21:31:12 - WARNING - Timestamp comd=0 from 101 to 0 for arm state 0 via 101
+2024-02-15 21:31:13 - DEBUG - sent 0.5379677250000157,99, 0 , False
+2024-02-15 21:31:13 - DEBUG - sent 0.217,17.4644903, 78.5940581 , 94, 8
+2024-02-15 21:31:13 - WARNING - Received data from 100
+2024-02-15 21:31:13 - DEBUG - sent 0.217,17.4644903, 78.5940581 , 94, 8
+2024-02-15 21:31:14 - WARNING - Received data from 100
+2024-02-15 21:31:14 - DEBUG - sent 0.2,17.4644902, 78.594058 , 94, 8
+2024-02-15 21:31:14 - WARNING - Received data from 100
+2024-02-15 21:31:14 - DEBUG - sent 0.2,17.4644902, 78.594058 , 94, 8
+2024-02-15 21:31:14 - WARNING - Received data from 100
+2024-02-15 21:31:14 - WARNING - Timestamp comd=0 from 101 to 0 for arm state 0 via 101
+2024-02-15 21:31:15 - DEBUG - sent 0.888680082999997,99, 0 , False
+2024-02-15 21:31:16 - DEBUG - sent 0.042,17.4644894, 78.5940564 , 94, 9
+2024-02-15 21:31:16 - WARNING - Timestamp comd=0 from 101 to 0 for arm state 0 via 101
+2024-02-15 21:31:17 - DEBUG - sent 0.10022858100001031,99, 0 , False
+2024-02-15 21:31:18 - DEBUG - sent 0.8385983809999971,99, 0 , False
+2024-02-15 21:31:18 - WARNING - Timestamp comd=0 from 101 to 0 for arm state 0 via 101
+2024-02-15 21:31:18 - DEBUG - sent -0.023,17.4644898, 78.5940555 , 94, 8
+2024-02-15 21:31:19 - WARNING - Timestamp comd=0 from 101 to 0 for arm state 0 via 101
+2024-02-15 21:31:20 - DEBUG - sent 0.7383559059999811,99, 0 , False
+2024-02-15 21:31:21 - DEBUG - sent -0.023,17.4644901, 78.5940546 , 94, 8
+2024-02-15 21:31:21 - WARNING - Timestamp comd=0 from 101 to 0 for arm state 0 via 101
+2024-02-15 21:31:22 - WARNING - Timestamp comd=0 from 101 to 0 for arm state 0 via 101
+2024-02-15 21:31:22 - DEBUG - sent 0.888490494999985,99, 0 , False
+2024-02-15 21:31:22 - DEBUG - sent 0.029,17.4644897, 78.5940549 , 94, 9
+2024-02-15 21:31:23 - WARNING - Timestamp comd=0 from 101 to 0 for arm state 0 via 101
+2024-02-15 21:31:24 - DEBUG - sent 0.6389899879999916,99, 0 , False
+2024-02-15 21:31:24 - DEBUG - sent 0.187,17.4644909, 78.5940567 , 94, 9
+2024-02-15 21:31:25 - WARNING - Timestamp comd=0 from 101 to 0 for arm state 0 via 101
+2024-02-15 21:31:26 - DEBUG - sent 0.8386017919999915,99, 0 , False
+2024-02-15 21:31:26 - WARNING - Received data from 100
+2024-02-15 21:31:26 - DEBUG - sent 0.266,17.4644924, 78.5940575 , 94, 9
+2024-02-15 21:31:26 - WARNING - Received data from 100
+2024-02-15 21:31:26 - DEBUG - sent 0.266,17.4644924, 78.5940575 , 94, 9
+2024-02-15 21:31:26 - WARNING - Received data from 100
+2024-02-15 21:31:27 - DEBUG - sent 0.8886353329999963,99, 0 , False
+2024-02-15 21:31:28 - DEBUG - sent 0.288,17.464494, 78.5940572 , 94, 9
+2024-02-15 21:31:28 - WARNING - Timestamp comd=0 from 101 to 0 for arm state 0 via 101
+2024-02-15 21:31:29 - DEBUG - sent 0.10036516499999948,99, 0 , False
+2024-02-15 21:31:30 - DEBUG - sent 0.256,17.4644954, 78.5940577 , 93, 9
+2024-02-15 21:31:31 - DEBUG - sent 0.38868066200001294,99, 0 , False
+2024-02-15 21:31:31 - WARNING - Timestamp comd=0 from 101 to 0 for arm state 0 via 101
+2024-02-15 21:31:31 - DEBUG - sent 0.10017202200000952,99, 0 , False
+2024-02-15 21:31:32 - DEBUG - sent 0.256,17.4644969, 78.5940585 , 94, 9
+2024-02-15 21:31:33 - WARNING - Timestamp comd=0 from 101 to 0 for arm state 0 via 101
+2024-02-15 21:31:33 - DEBUG - sent 0.3375903810000125,99, 0 , False
+2024-02-15 21:31:34 - DEBUG - sent 0.374,17.4645003, 78.5940594 , 94, 9
+2024-02-15 21:31:35 - WARNING - Received data from 100
+2024-02-15 21:31:35 - DEBUG - sent 0.412,17.4645006, 78.5940599 , 94, 9
+2024-02-15 21:31:35 - WARNING - Received data from 100
+2024-02-15 21:31:35 - DEBUG - sent 0.412,17.4645006, 78.5940599 , 94, 9
+2024-02-15 21:31:35 - WARNING - Received data from 100
+2024-02-15 21:31:35 - DEBUG - sent 0.43,17.4645008, 78.5940601 , 94, 9
+2024-02-15 21:31:35 - WARNING - Received data from 100
+2024-02-15 21:31:35 - DEBUG - sent 0.43,17.4645008, 78.5940601 , 94, 9
+2024-02-15 21:31:35 - WARNING - Received data from 100
+2024-02-15 21:31:35 - DEBUG - sent 0.448,17.4645009, 78.5940601 , 94, 9
+2024-02-15 21:31:35 - WARNING - Received data from 100
+2024-02-15 21:31:35 - DEBUG - sent 0.448,17.4645009, 78.5940601 , 94, 9
+2024-02-15 21:31:35 - WARNING - Received data from 100
+2024-02-15 21:31:35 - DEBUG - sent 0.453,17.4645011, 78.5940603 , 94, 9
+2024-02-15 21:31:35 - WARNING - Received data from 100
+2024-02-15 21:31:35 - DEBUG - sent 0.453,17.4645011, 78.5940603 , 94, 9
+2024-02-15 21:31:36 - DEBUG - sent 0.465,17.4645013, 78.5940604 , 94, 9
+2024-02-15 21:31:36 - WARNING - Timestamp comd=0 from 101 to 0 for arm state 0 via 101
+2024-02-15 21:31:37 - DEBUG - sent 0.05009286800000723,99, 0 , False
+2024-02-15 21:31:38 - DEBUG - sent 0.49,17.4645021, 78.5940606 , 94, 9
+2024-02-15 21:31:39 - WARNING - Timestamp comd=0 from 101 to 0 for arm state 0 via 101
+2024-02-15 21:31:39 - DEBUG - sent 0.2371881470000119,99, 0 , False
+2024-02-15 21:31:40 - DEBUG - sent 0.5374499600000036,99, 0 , False
+2024-02-15 21:31:40 - WARNING - Timestamp comd=0 from 101 to 0 for arm state 0 via 101
+2024-02-15 21:31:40 - DEBUG - sent 0.6376594520000083,99, 0 , False
+2024-02-15 21:31:40 - WARNING - Timestamp comd=0 from 101 to 0 for arm state 0 via 101
+2024-02-15 21:31:40 - WARNING - Timestamp comd=0 from 101 to 0 for arm state 0 via 101
+2024-02-15 21:31:41 - DEBUG - sent 1.0055000018382998e-05,99, 0 , False
+2024-02-15 21:31:42 - DEBUG - sent 0.356,17.4645009, 78.5940597 , 94, 9
+2024-02-15 21:31:42 - DEBUG - sent 0.3384487479999905,99, 0 , False
+2024-02-15 21:31:42 - WARNING - Timestamp comd=0 from 101 to 0 for arm state 0 via 101
+2024-02-15 21:31:43 - WARNING - Timestamp comd=0 from 101 to 0 for arm state 0 via 101
+2024-02-15 21:31:44 - DEBUG - sent 0.6385707830000058,99, 0 , False
+2024-02-15 21:31:44 - DEBUG - sent 0.317,17.4644992, 78.5940599 , 94, 8
+2024-02-15 21:31:45 - WARNING - Timestamp comd=0 from 101 to 0 for arm state 0 via 101
+2024-02-15 21:31:46 - DEBUG - sent 0.8386582910000016,99, 0 , False
+2024-02-15 21:31:47 - WARNING - Received data from 102
+2024-02-15 21:31:47 - DEBUG - sent 0.318,17.4644983, 78.5940608 , 94, 8
+2024-02-15 21:31:47 - WARNING - Received data from 102
+2024-02-15 21:31:47 - DEBUG - sent 0.318,17.4644983, 78.5940608 , 94, 8
+2024-02-15 21:31:47 - WARNING - Timestamp comd=0 from 101 to 0 for arm state 0 via 101
+2024-02-15 21:31:48 - DEBUG - sent 1.2018000006719376e-05,99, 0 , False
+2024-02-15 21:31:49 - DEBUG - sent 0.283,17.4644962, 78.5940614 , 94, 8
+2024-02-15 21:31:50 - WARNING - Timestamp comd=0 from 101 to 0 for arm state 0 via 101
+2024-02-15 21:31:50 - DEBUG - sent 0.23834999100000687,99, 0 , False
+2024-02-15 21:31:51 - WARNING - Timestamp comd=0 from 101 to 0 for arm state 0 via 101
+2024-02-15 21:31:51 - DEBUG - sent 0.7383771380000042,99, 0 , False
+2024-02-15 21:31:51 - WARNING - Timestamp comd=0 from 101 to 0 for arm state 0 via 101
+2024-02-15 21:31:51 - DEBUG - sent 0.8386038399999904,99, 0 , False
+2024-02-15 21:31:51 - WARNING - Timestamp comd=0 from 101 to 0 for arm state 0 via 101
+2024-02-15 21:31:51 - DEBUG - sent 0.9884120559999872,99, 0 , False
+2024-02-15 21:31:51 - WARNING - Timestamp comd=0 from 101 to 0 for arm state 0 via 101
+2024-02-15 21:31:51 - DEBUG - sent 0.274,17.4644938, 78.594061 , 94, 8
+2024-02-15 21:31:52 - DEBUG - sent 0.282,17.4644929, 78.5940604 , 94, 8
+2024-02-15 21:31:52 - DEBUG - sent 0.291,17.4644925, 78.59406 , 94, 8
+2024-02-15 21:31:53 - WARNING - Timestamp comd=0 from 101 to 0 for arm state 0 via 101
+2024-02-15 21:31:54 - DEBUG - sent 0.7884911479999914,99, 0 , False
+2024-02-15 21:31:55 - DEBUG - sent 0.283,17.464491, 78.594059 , 94, 8
+2024-02-15 21:31:55 - WARNING - Timestamp comd=0 from 101 to 0 for arm state 0 via 101
+2024-02-15 21:31:56 - DEBUG - sent 0.326,17.4644898, 78.5940585 , 94, 8
+2024-02-15 21:31:56 - DEBUG - sent 0.23813930100001812,99, 0 , False
+2024-02-15 21:31:57 - DEBUG - sent 0.342,17.4644888, 78.5940575 , 94, 8
+2024-02-15 21:31:58 - DEBUG - sent 0.5382399060000012,99, 0 , False
+2024-02-15 21:31:58 - DEBUG - sent 0.343,17.4644876, 78.5940575 , 94, 8
+2024-02-15 21:31:59 - WARNING - Timestamp comd=0 from 101 to 0 for arm state 0 via 101
+2024-02-15 21:32:00 - DEBUG - sent 0.6385170240000093,99, 0 , False
+2024-02-15 21:32:00 - DEBUG - sent 0.276,17.4644857, 78.5940577 , 94, 8
+2024-02-15 21:32:01 - WARNING - Timestamp comd=0 from 101 to 0 for arm state 0 via 101
+2024-02-15 21:32:02 - DEBUG - sent 0.43881639200000677,99, 0 , False
+2024-02-15 21:32:02 - DEBUG - sent 0.293,17.4644849, 78.5940583 , 94, 8
+2024-02-15 21:32:03 - WARNING - Timestamp comd=0 from 101 to 0 for arm state 0 via 101
+2024-02-15 21:32:03 - DEBUG - sent 0.23835857199998145,99, 0 , False
+2024-02-15 21:32:04 - DEBUG - sent 0.333,17.4644842, 78.594059 , 94, 8
+2024-02-15 21:32:05 - WARNING - Timestamp comd=0 from 101 to 0 for arm state 0 via 101
+2024-02-15 21:32:06 - DEBUG - sent 0.48712833300001535,99, 0 , False
+2024-02-15 21:32:06 - DEBUG - sent 0.328,17.464484, 78.5940599 , 94, 8
+2024-02-15 21:32:07 - WARNING - Received data from 100
+2024-02-15 21:32:07 - DEBUG - sent 0.326,17.4644839, 78.5940604 , 94, 8
+2024-02-15 21:32:08 - WARNING - Timestamp comd=0 from 101 to 0 for arm state 0 via 101
+2024-02-15 21:32:08 - WARNING - Timestamp comd=0 from 101 to 0 for arm state 0 via 101
+2024-02-15 21:32:08 - WARNING - Timestamp comd=0 from 101 to 0 for arm state 0 via 101
+2024-02-15 21:32:09 - DEBUG - sent 0.9376016690000029,99, 0 , False
+2024-02-15 21:32:10 - DEBUG - sent 0.346,17.464484, 78.5940597 , 94, 8
+2024-02-15 21:32:10 - WARNING - Timestamp comd=0 from 101 to 0 for arm state 0 via 101
+2024-02-15 21:32:11 - DEBUG - sent 0.10022254399999042,99, 0 , False
+2024-02-15 21:32:12 - DEBUG - sent 0.363,17.4644847, 78.5940587 , 94, 8
+2024-02-15 21:32:13 - WARNING - Timestamp comd=0 from 101 to 0 for arm state 0 via 101
+2024-02-15 21:32:13 - DEBUG - sent 0.299,17.4644846, 78.594058 , 94, 8
+2024-02-15 21:32:14 - WARNING - Timestamp comd=0 from 101 to 0 for arm state 0 via 101
+2024-02-15 21:32:15 - DEBUG - sent 0.5373975249999887,99, 0 , False
+2024-02-15 21:32:15 - DEBUG - sent 0.309,17.4644845, 78.5940568 , 94, 8
+2024-02-15 21:32:16 - WARNING - Timestamp comd=0 from 101 to 0 for arm state 0 via 101
+2024-02-15 21:32:17 - DEBUG - sent 0.7373257499999966,99, 0 , False
+2024-02-15 21:32:17 - DEBUG - sent 0.342,17.4644837, 78.5940557 , 94, 8
+2024-02-15 21:32:18 - WARNING - Timestamp comd=0 from 101 to 0 for arm state 0 via 101
+2024-02-15 21:32:19 - WARNING - Received data from 100
+2024-02-15 21:32:19 - DEBUG - sent 0.327,17.4644825, 78.594055 , 94, 8
+2024-02-15 21:32:19 - WARNING - Received data from 102
+2024-02-15 21:32:19 - DEBUG - sent 0.8878149399999984,99, 0 , False
+2024-02-15 21:32:20 - DEBUG - sent 0.305,17.4644817, 78.5940545 , 94, 8
+2024-02-15 21:32:20 - WARNING - Timestamp comd=0 from 101 to 0 for arm state 0 via 101
+2024-02-15 21:32:21 - DEBUG - sent 0.10018884000001549,99, 0 , False
+2024-02-15 21:32:22 - DEBUG - sent 0.241,17.46448, 78.5940546 , 94, 8
+2024-02-15 21:32:23 - WARNING - Timestamp comd=0 from 101 to 0 for arm state 0 via 101
+2024-02-15 21:32:23 - WARNING - Timestamp comd=0 from 101 to 0 for arm state 0 via 101
+2024-02-15 21:32:23 - DEBUG - sent 0.228,17.4644793, 78.5940549 , 94, 8
+2024-02-15 21:32:24 - WARNING - Timestamp comd=0 from 101 to 0 for arm state 0 via 101
+2024-02-15 21:32:25 - DEBUG - sent 0.6886475800000085,99, 0 , False
+2024-02-15 21:32:26 - DEBUG - sent 0.255,17.4644776, 78.5940559 , 94, 8
+2024-02-15 21:32:26 - WARNING - Timestamp comd=0 from 101 to 0 for arm state 0 via 101
+2024-02-15 21:32:27 - WARNING - Received data from 102
+2024-02-15 21:32:27 - DEBUG - sent 0.10023739099997897,99, 0 , False
+2024-02-15 21:32:28 - DEBUG - sent 0.275,17.4644789, 78.5940584 , 94, 9
+2024-02-15 21:32:29 - WARNING - Timestamp comd=0 from 101 to 0 for arm state 0 via 101
+2024-02-15 21:32:29 - DEBUG - sent 0.3384785499999907,99, 0 , False
+2024-02-15 21:32:30 - DEBUG - sent 0.363,17.4644818, 78.5940617 , 94, 9
+2024-02-15 21:32:31 - WARNING - Timestamp comd=0 from 101 to 0 for arm state 0 via 101
+2024-02-15 21:32:32 - DEBUG - sent 0.5384793590000072,99, 0 , False
+2024-02-15 21:32:32 - WARNING - Timestamp comd=0 from 101 to 0 for arm state 0 via 101
+2024-02-15 21:32:32 - DEBUG - sent 0.05016049099998554,99, 0 , False
+2024-02-15 21:32:32 - WARNING - Timestamp comd=0 from 101 to 0 for arm state 0 via 101
+2024-02-15 21:32:32 - DEBUG - sent 0.1503588629999797,99, 0 , False
+2024-02-15 21:32:33 - DEBUG - sent 0.337,17.4644839, 78.5940633 , 94, 9
+2024-02-15 21:32:34 - WARNING - Timestamp comd=0 from 101 to 0 for arm state 0 via 101
+2024-02-15 21:32:34 - DEBUG - sent 0.2884178140000131,99, 0 , False
+2024-02-15 21:32:35 - DEBUG - sent 0.381,17.4644863, 78.5940639 , 94, 9
+2024-02-15 21:32:36 - WARNING - Timestamp comd=0 from 101 to 0 for arm state 0 via 101
+2024-02-15 21:32:36 - DEBUG - sent 0.20064377399998534,99, 0 , False
+2024-02-15 21:32:36 - WARNING - Timestamp comd=0 from 101 to 0 for arm state 0 via 101
+2024-02-15 21:32:36 - DEBUG - sent 0.28849294200000486,99, 0 , False
+2024-02-15 21:32:36 - WARNING - Timestamp comd=0 from 101 to 0 for arm state 0 via 101
+2024-02-15 21:32:37 - DEBUG - sent 0.38870533799999407,99, 0 , False
+2024-02-15 21:32:37 - WARNING - Timestamp comd=0 from 101 to 0 for arm state 0 via 101
+2024-02-15 21:32:37 - DEBUG - sent 0.5383521199999848,99, 0 , False
+2024-02-15 21:32:37 - DEBUG - sent 0.6887064549999877,99, 0 , False
+2024-02-15 21:32:38 - DEBUG - sent 0.4,17.4644885, 78.5940639 , 94, 9
+2024-02-15 21:32:38 - WARNING - Timestamp comd=0 from 101 to 0 for arm state 0 via 101
+2024-02-15 21:32:39 - DEBUG - sent 0.8889210070000217,99, 0 , False
+2024-02-15 21:32:40 - DEBUG - sent 0.463,17.4644897, 78.5940643 , 94, 9
+2024-02-15 21:32:40 - DEBUG - sent 0.465,17.4644894, 78.5940644 , 94, 9
+2024-02-15 21:32:40 - WARNING - Received data from 102
+2024-02-15 21:32:41 - DEBUG - sent 0.449,17.4644894, 78.5940642 , 94, 9
+2024-02-15 21:32:41 - WARNING - Timestamp comd=0 from 101 to 0 for arm state 0 via 101
+2024-02-15 21:32:42 - DEBUG - sent 0.15027435599998284,99, 0 , False
+2024-02-15 21:32:43 - DEBUG - sent 0.44042238199997996,99, 0 , False
+2024-02-15 21:32:43 - DEBUG - sent 0.399,17.4644921, 78.594065 , 94, 9
+2024-02-15 21:32:44 - WARNING - Timestamp comd=0 from 101 to 0 for arm state 0 via 101
+2024-02-15 21:32:45 - DEBUG - sent 0.5360623150000094,99, 0 , False
+2024-02-15 21:32:45 - DEBUG - sent 0.375,17.464497, 78.5940656 , 94, 9
+2024-02-15 21:32:46 - WARNING - Timestamp comd=0 from 101 to 0 for arm state 0 via 101
+2024-02-15 21:32:47 - DEBUG - sent 0.48737926799998377,99, 0 , False
+2024-02-15 21:32:47 - WARNING - Timestamp comd=0 from 101 to 0 for arm state 0 via 101
+2024-02-15 21:32:47 - DEBUG - sent 0.537474187999976,99, 0 , False
+2024-02-15 21:32:47 - WARNING - Timestamp comd=0 from 101 to 0 for arm state 0 via 101
+2024-02-15 21:32:47 - DEBUG - sent 0.6877942809999809,99, 0 , False
+2024-02-15 21:32:47 - WARNING - Timestamp comd=0 from 101 to 0 for arm state 0 via 101
+2024-02-15 21:32:47 - DEBUG - sent 0.434,17.4644994, 78.5940652 , 94, 8
+2024-02-15 21:32:47 - WARNING - Timestamp comd=0 from 101 to 0 for arm state 0 via 101
+2024-02-15 21:32:48 - DEBUG - sent 0.8874842220000119,99, 0 , False
+2024-02-15 21:32:49 - DEBUG - sent 0.427,17.4644998, 78.5940643 , 94, 9
+2024-02-15 21:32:49 - WARNING - Timestamp comd=0 from 101 to 0 for arm state 0 via 101
+2024-02-15 21:32:50 - DEBUG - sent 0.10025979599998891,99, 0 , False
+2024-02-15 21:32:51 - DEBUG - sent 0.424,17.4645013, 78.5940645 , 94, 8
+2024-02-15 21:32:52 - WARNING - Timestamp comd=0 from 101 to 0 for arm state 0 via 101
+2024-02-15 21:32:52 - DEBUG - sent 0.2880826359999844,99, 0 , False
+2024-02-15 21:32:53 - DEBUG - sent 0.406,17.4645013, 78.5940643 , 94, 8
+2024-02-15 21:32:54 - WARNING - Timestamp comd=0 from 101 to 0 for arm state 0 via 101
+2024-02-15 21:32:54 - DEBUG - sent 0.346,17.4645007, 78.594064 , 94, 8
+2024-02-15 21:32:54 - WARNING - Received data from 102
+2024-02-15 21:32:55 - DEBUG - sent 0.5875325969999778,99, 0 , False
+2024-02-15 21:32:55 - DEBUG - sent 0.362,17.4644999, 78.5940637 , 94, 8
+2024-02-15 21:32:56 - WARNING - Timestamp comd=0 from 101 to 0 for arm state 0 via 101
+2024-02-15 21:32:57 - DEBUG - sent 0.7872313689999828,99, 0 , False
+2024-02-15 21:32:58 - DEBUG - sent 0.422,17.4644975, 78.5940641 , 94, 8
+2024-02-15 21:32:58 - WARNING - Timestamp comd=0 from 101 to 0 for arm state 0 via 101
+2024-02-15 21:32:59 - WARNING - Timestamp comd=0 from 101 to 0 for arm state 0 via 101
+2024-02-15 21:32:59 - DEBUG - sent 0.5375588759999914,99, 0 , False
+2024-02-15 21:32:59 - WARNING - Timestamp comd=0 from 101 to 0 for arm state 0 via 101
+2024-02-15 21:32:59 - DEBUG - sent 0.63777016399996,99, 0 , False
+2024-02-15 21:32:59 - WARNING - Timestamp comd=0 from 101 to 0 for arm state 0 via 101
+2024-02-15 21:32:59 - DEBUG - sent 0.7371556779999651,99, 0 , False
+2024-02-15 21:32:59 - WARNING - Timestamp comd=0 from 101 to 0 for arm state 0 via 101
+2024-02-15 21:32:59 - DEBUG - sent 0.8875357590000021,99, 0 , False
+2024-02-15 21:32:59 - WARNING - Timestamp comd=0 from 101 to 0 for arm state 0 via 101
+2024-02-15 21:32:59 - DEBUG - sent 0.389,17.4644962, 78.5940643 , 94, 8
+2024-02-15 21:32:59 - DEBUG - sent 0.23433264499999495,99, 0 , False
+2024-02-15 21:32:59 - WARNING - Timestamp comd=0 from 101 to 0 for arm state 0 via 101
+2024-02-15 21:33:00 - DEBUG - sent 0.5885929020000162,99, 0 , False
+2024-02-15 21:33:00 - DEBUG - sent 0.36,17.4644953, 78.5940643 , 94, 8
+2024-02-15 21:33:01 - WARNING - Timestamp comd=0 from 101 to 0 for arm state 0 via 101
+2024-02-15 21:33:02 - DEBUG - sent 0.7883253630000127,99, 0 , False
+2024-02-15 21:33:03 - DEBUG - sent 0.411,17.4644924, 78.5940651 , 94, 8
+2024-02-15 21:33:03 - WARNING - Timestamp comd=0 from 101 to 0 for arm state 0 via 101
+2024-02-15 21:33:03 - DEBUG - sent 0.3384708219999766,99, 0 , False
+2024-02-15 21:33:03 - WARNING - Timestamp comd=0 from 101 to 0 for arm state 0 via 101
+2024-02-15 21:33:04 - DEBUG - sent 0.43864738099995293,99, 0 , False
+2024-02-15 21:33:04 - DEBUG - sent 0.9388020760000018,99, 0 , False
+2024-02-15 21:33:05 - DEBUG - sent 0.417,17.4644906, 78.5940644 , 94, 8
+2024-02-15 21:33:05 - WARNING - Timestamp comd=0 from 101 to 0 for arm state 0 via 101
+2024-02-15 21:33:06 - DEBUG - sent 0.15029484699999784,99, 0 , False
+2024-02-15 21:33:07 - DEBUG - sent 0.368,17.4644884, 78.5940636 , 94, 8
+2024-02-15 21:33:08 - DEBUG - sent 0.358,17.4644877, 78.594063 , 94, 8
+2024-02-15 21:33:08 - WARNING - Received data from 102
+2024-02-15 21:33:08 - DEBUG - sent 0.358,17.4644877, 78.594063 , 94, 8
+2024-02-15 21:33:08 - DEBUG - sent 0.6886435700000106,99, 0 , False
+2024-02-15 21:33:09 - DEBUG - sent 0.376,17.4644874, 78.5940625 , 94, 8
+2024-02-15 21:33:09 - WARNING - Timestamp comd=0 from 101 to 0 for arm state 0 via 101
+2024-02-15 21:33:10 - DEBUG - sent 0.8891867639999873,99, 0 , False
+2024-02-15 21:33:11 - DEBUG - sent 0.426,17.4644856, 78.5940611 , 94, 8
+2024-02-15 21:33:11 - WARNING - Timestamp comd=0 from 101 to 0 for arm state 0 via 101
+2024-02-15 21:33:12 - WARNING - Timestamp comd=0 from 101 to 0 for arm state 0 via 101
+2024-02-15 21:33:13 - DEBUG - sent 0.7381256520000079,99, 0 , False
+2024-02-15 21:33:14 - DEBUG - sent 0.459,17.4644852, 78.5940597 , 94, 8
+2024-02-15 21:33:14 - WARNING - Timestamp comd=0 from 101 to 0 for arm state 0 via 101
+2024-02-15 21:33:15 - DEBUG - sent 0.9387251219999939,99, 0 , False
+2024-02-15 21:33:16 - DEBUG - sent 0.457,17.4644867, 78.5940602 , 94, 8
+2024-02-15 21:33:16 - WARNING - Timestamp comd=0 from 101 to 0 for arm state 0 via 101
+2024-02-15 21:33:17 - DEBUG - sent 0.7383832520000055,99, 0 , False
+2024-02-15 21:33:18 - DEBUG - sent 0.495,17.4644864, 78.5940607 , 94, 8
+2024-02-15 21:33:18 - WARNING - Timestamp comd=0 from 101 to 0 for arm state 0 via 101
+2024-02-15 21:33:19 - DEBUG - sent 0.9386071839999772,99, 0 , False
+2024-02-15 21:33:20 - DEBUG - sent 0.499,17.4644866, 78.5940624 , 94, 8
+2024-02-15 21:33:20 - DEBUG - sent 0.838576469999964,99, 0 , False
+2024-02-15 21:33:20 - DEBUG - sent 0.3886033859999998,99, 0 , False
+2024-02-15 21:33:21 - DEBUG - sent 0.496,17.4644867, 78.5940639 , 94, 8
+2024-02-15 21:33:22 - WARNING - Timestamp comd=0 from 101 to 0 for arm state 0 via 101
+2024-02-15 21:33:23 - DEBUG - sent 0.5885835039999847,99, 0 , False
+2024-02-15 21:33:23 - DEBUG - sent 0.5,17.4644866, 78.5940653 , 94, 8
+2024-02-15 21:33:24 - DEBUG - sent 0.8885795570000141,99, 0 , False
+2024-02-15 21:33:24 - DEBUG - sent 0.503,17.4644859, 78.5940654 , 94, 8
+2024-02-15 21:33:25 - WARNING - Timestamp comd=0 from 101 to 0 for arm state 0 via 101
+2024-02-15 21:33:26 - DEBUG - sent 0.5885419360000128,99, 0 , False
+2024-02-15 21:33:26 - DEBUG - sent 0.547,17.4644838, 78.5940652 , 94, 9
+2024-02-15 21:33:27 - WARNING - Timestamp comd=0 from 101 to 0 for arm state 0 via 101
+2024-02-15 21:33:28 - DEBUG - sent 0.7884982289999698,99, 0 , False
+2024-02-15 21:33:28 - WARNING - Received data from 102
+2024-02-15 21:33:28 - DEBUG - sent 0.505,17.4644854, 78.594066 , 94, 8
+2024-02-15 21:33:28 - WARNING - Received data from 102
+2024-02-15 21:33:28 - DEBUG - sent 0.505,17.4644854, 78.594066 , 94, 8
+2024-02-15 21:33:29 - DEBUG - sent 0.483,17.4644864, 78.5940664 , 94, 8
+2024-02-15 21:33:30 - WARNING - Timestamp comd=0 from 101 to 0 for arm state 0 via 101
+2024-02-15 21:33:30 - DEBUG - sent 0.2004095269999766,99, 0 , False
+2024-02-15 21:33:31 - DEBUG - sent 0.499,17.4644882, 78.5940668 , 94, 8
+2024-02-15 21:33:32 - WARNING - Timestamp comd=0 from 101 to 0 for arm state 0 via 101
+2024-02-15 21:33:32 - WARNING - Timestamp comd=0 from 101 to 0 for arm state 0 via 101
+2024-02-15 21:33:32 - DEBUG - sent 0.2885375930000009,99, 0 , False
+2024-02-15 21:33:32 - WARNING - Timestamp comd=0 from 101 to 0 for arm state 0 via 101
+2024-02-15 21:33:33 - WARNING - Timestamp comd=0 from 101 to 0 for arm state 0 via 101
+2024-02-15 21:33:33 - DEBUG - sent 0.3373923990000094,99, 0 , False
+2024-02-15 21:33:34 - DEBUG - sent 0.594,17.4644902, 78.5940682 , 94, 9
+2024-02-15 21:33:35 - WARNING - Timestamp comd=0 from 101 to 0 for arm state 0 via 101
+2024-02-15 21:33:36 - DEBUG - sent 0.5374720300000035,99, 0 , False
+2024-02-15 21:33:36 - DEBUG - sent 0.62,17.464491, 78.594069 , 94, 9
+2024-02-15 21:33:37 - DEBUG - sent 0.615,17.4644909, 78.594069 , 94, 9
+2024-02-15 21:33:37 - WARNING - Received data from 102
+2024-02-15 21:33:37 - DEBUG - sent 0.8377211539999507,99, 0 , False
+2024-02-15 21:33:38 - DEBUG - sent 0.597,17.464491, 78.5940689 , 94, 9
+2024-02-15 21:33:38 - WARNING - Timestamp comd=0 from 101 to 0 for arm state 0 via 101
+2024-02-15 21:33:39 - DEBUG - sent 0.05010372100002769,99, 0 , False
+2024-02-15 21:33:40 - DEBUG - sent 0.582,17.4644912, 78.5940693 , 94, 9
+2024-02-15 21:33:41 - WARNING - Timestamp comd=0 from 101 to 0 for arm state 0 via 101
+2024-02-15 21:33:41 - DEBUG - sent 0.23834723400000257,99, 0 , False
+2024-02-15 21:33:42 - DEBUG - sent 0.535,17.4644912, 78.5940697 , 94, 9
+2024-02-15 21:33:43 - DEBUG - sent 0.525,17.4644913, 78.59407 , 94, 9
+2024-02-15 21:33:43 - WARNING - Received data from 102
+2024-02-15 21:33:43 - DEBUG - sent 0.523,17.4644913, 78.5940702 , 94, 9
+2024-02-15 21:33:43 - WARNING - Timestamp comd=0 from 101 to 0 for arm state 0 via 101
+2024-02-15 21:33:44 - DEBUG - sent 0.15033800300000166,99, 0 , False
+2024-02-15 21:33:45 - DEBUG - sent 0.507,17.4644918, 78.5940721 , 94, 9
+2024-02-15 21:33:46 - WARNING - Timestamp comd=0 from 101 to 0 for arm state 0 via 101
+2024-02-15 21:33:46 - DEBUG - sent 0.3385371900000109,99, 0 , False
+2024-02-15 21:33:47 - WARNING - Timestamp comd=0 from 101 to 0 for arm state 0 via 101
+2024-02-15 21:33:47 - DEBUG - sent 0.8385985049999931,99, 0 , False
+2024-02-15 21:33:47 - WARNING - Timestamp comd=0 from 101 to 0 for arm state 0 via 101
+2024-02-15 21:33:47 - DEBUG - sent 0.481,17.4644924, 78.594074 , 94, 9
+2024-02-15 21:33:48 - WARNING - Timestamp comd=0 from 101 to 0 for arm state 0 via 101
+2024-02-15 21:33:49 - DEBUG - sent 0.4881446610000353,99, 0 , False
+2024-02-15 21:33:49 - DEBUG - sent 0.492,17.4644916, 78.5940749 , 94, 9
+2024-02-15 21:33:50 - WARNING - Timestamp comd=0 from 101 to 0 for arm state 0 via 101
+2024-02-15 21:33:51 - DEBUG - sent 0.6885262299999795,99, 0 , False
+2024-02-15 21:33:51 - DEBUG - sent 0.28845830300002717,99, 0 , False
+2024-02-15 21:33:52 - DEBUG - sent 0.492,17.4644913, 78.5940756 , 94, 10
+2024-02-15 21:33:53 - WARNING - Timestamp comd=0 from 101 to 0 for arm state 0 via 101
+2024-02-15 21:33:54 - DEBUG - sent 0.5383500650000315,99, 0 , False
+2024-02-15 21:33:54 - DEBUG - sent 0.496,17.4644892, 78.5940752 , 94, 10
+2024-02-15 21:33:55 - WARNING - Timestamp comd=0 from 101 to 0 for arm state 0 via 101
+2024-02-15 21:33:56 - DEBUG - sent 0.527,17.4644887, 78.5940749 , 94, 10
+2024-02-15 21:33:56 - WARNING - Timestamp comd=0 from 101 to 0 for arm state 0 via 101
+2024-02-15 21:33:57 - DEBUG - sent 0.9388057919999824,99, 0 , False
+2024-02-15 21:33:58 - DEBUG - sent 0.506,17.4644892, 78.5940743 , 94, 10
+2024-02-15 21:33:58 - WARNING - Timestamp comd=0 from 101 to 0 for arm state 0 via 101
+2024-02-15 21:33:59 - DEBUG - sent 0.15036194799995428,99, 0 , False
+2024-02-15 21:33:59 - WARNING - Received data from 102
+2024-02-15 21:33:59 - DEBUG - sent 0.457,17.4644908, 78.5940737 , 94, 10
+2024-02-15 21:34:00 - WARNING - Received data from 102
+2024-02-15 21:34:00 - DEBUG - sent 0.449,17.464491, 78.5940736 , 94, 10
+2024-02-15 21:34:00 - WARNING - Timestamp comd=0 from 101 to 0 for arm state 0 via 101
+2024-02-15 21:34:01 - DEBUG - sent 0.9387880890000133,99, 0 , False
+2024-02-15 21:34:02 - DEBUG - sent 0.441,17.4644925, 78.5940728 , 94, 10
+2024-02-15 21:34:02 - WARNING - Timestamp comd=0 from 101 to 0 for arm state 0 via 101
+2024-02-15 21:34:03 - DEBUG - sent 0.10021526799999947,99, 0 , False
+2024-02-15 21:34:04 - DEBUG - sent 0.7384265910000067,99, 0 , False
+2024-02-15 21:34:05 - DEBUG - sent 0.447,17.464493, 78.5940719 , 94, 10
+2024-02-15 21:34:05 - WARNING - Timestamp comd=0 from 101 to 0 for arm state 0 via 101
+2024-02-15 21:34:06 - DEBUG - sent 0.9375281619999782,99, 0 , False
+2024-02-15 21:34:07 - DEBUG - sent 0.454,17.4644935, 78.5940713 , 94, 10
+2024-02-15 21:34:07 - WARNING - Timestamp comd=0 from 101 to 0 for arm state 0 via 101
+2024-02-15 21:34:08 - WARNING - Received data from 102
+2024-02-15 21:34:08 - DEBUG - sent 0.449,17.464493, 78.5940709 , 94, 10
+2024-02-15 21:34:08 - WARNING - Received data from 102
+2024-02-15 21:34:08 - DEBUG - sent 0.449,17.464493, 78.5940709 , 94, 10
+2024-02-15 21:34:08 - WARNING - Received data from 102
+2024-02-15 21:34:08 - DEBUG - sent 0.448,17.4644931, 78.5940708 , 94, 10
+2024-02-15 21:34:08 - WARNING - Timestamp comd=0 from 101 to 0 for arm state 0 via 101
+2024-02-15 21:34:09 - DEBUG - sent 0.050094570999988264,99, 0 , False
+2024-02-15 21:34:10 - DEBUG - sent 0.445,17.4644931, 78.5940701 , 94, 10
+2024-02-15 21:34:11 - WARNING - Timestamp comd=0 from 101 to 0 for arm state 0 via 101
+2024-02-15 21:34:11 - DEBUG - sent 0.2874359090000098,99, 0 , False
+2024-02-15 21:34:12 - DEBUG - sent 0.489,17.4644941, 78.5940696 , 94, 10
+2024-02-15 21:34:13 - WARNING - Timestamp comd=0 from 101 to 0 for arm state 0 via 101
+2024-02-15 21:34:14 - DEBUG - sent 0.48712006700003485,99, 0 , False
+2024-02-15 21:34:14 - DEBUG - sent 0.549,17.4644945, 78.5940697 , 94, 10
+2024-02-15 21:34:15 - WARNING - Timestamp comd=0 from 101 to 0 for arm state 0 via 101
+2024-02-15 21:34:16 - DEBUG - sent 0.6874385479999887,99, 0 , False
+2024-02-15 21:34:16 - WARNING - Timestamp comd=0 from 101 to 0 for arm state 0 via 101
+2024-02-15 21:34:17 - DEBUG - sent 0.8879316919999951,99, 0 , False
+2024-02-15 21:34:18 - DEBUG - sent 0.583,17.4644955, 78.5940698 , 94, 10
+2024-02-15 21:34:18 - WARNING - Timestamp comd=0 from 101 to 0 for arm state 0 via 101
+2024-02-15 21:34:19 - DEBUG - sent 0.7328058099999453,99, 0 , False
+2024-02-15 21:34:20 - DEBUG - sent 0.596,17.4644935, 78.5940696 , 94, 10
+2024-02-15 21:34:20 - WARNING - Timestamp comd=0 from 101 to 0 for arm state 0 via 101
+2024-02-15 21:34:21 - DEBUG - sent 0.9388464859999885,99, 0 , False
+2024-02-15 21:34:22 - DEBUG - sent 0.557,17.4644915, 78.5940698 , 94, 10
+2024-02-15 21:34:22 - DEBUG - sent 0.554,17.4644915, 78.5940699 , 94, 10
+2024-02-15 21:34:23 - WARNING - Timestamp comd=0 from 101 to 0 for arm state 0 via 101
+2024-02-15 21:34:23 - DEBUG - sent 0.3385116500000436,99, 0 , False
+2024-02-15 21:34:24 - DEBUG - sent 0.535,17.4644915, 78.5940701 , 94, 10
+2024-02-15 21:34:25 - WARNING - Timestamp comd=0 from 101 to 0 for arm state 0 via 101
+2024-02-15 21:34:26 - DEBUG - sent 0.5384309030000054,99, 0 , False
+2024-02-15 21:34:26 - DEBUG - sent 0.531,17.4644888, 78.5940698 , 94, 11
+2024-02-15 21:34:27 - WARNING - Timestamp comd=0 from 101 to 0 for arm state 0 via 101
+2024-02-15 21:34:27 - DEBUG - sent 0.3386232259999815,99, 0 , False
+2024-02-15 21:34:28 - DEBUG - sent 0.503,17.4644873, 78.5940703 , 94, 11
+2024-02-15 21:34:29 - WARNING - Timestamp comd=0 from 101 to 0 for arm state 0 via 101
+2024-02-15 21:34:30 - DEBUG - sent 0.538486129999967,99, 0 , False
+2024-02-15 21:34:30 - DEBUG - sent 0.481,17.4644877, 78.5940713 , 94, 11
+2024-02-15 21:34:31 - WARNING - Timestamp comd=0 from 101 to 0 for arm state 0 via 101
+2024-02-15 21:34:32 - DEBUG - sent 0.7885233129999847,99, 0 , False
+2024-02-15 21:34:33 - DEBUG - sent 0.543,17.4644877, 78.5940725 , 94, 11
+2024-02-15 21:34:33 - WARNING - Timestamp comd=0 from 101 to 0 for arm state 0 via 101
+2024-02-15 21:34:34 - DEBUG - sent 1.0796000026402908e-05,99, 0 , False
+2024-02-15 21:34:35 - DEBUG - sent 0.547,17.4644877, 78.5940731 , 100, 11
+2024-02-15 21:34:36 - WARNING - Timestamp comd=0 from 101 to 0 for arm state 0 via 101
+2024-02-15 21:34:36 - DEBUG - sent 0.20045869300003005,99, 0 , False
+2024-02-15 21:34:37 - DEBUG - sent 0.548,17.4644877, 78.5940749 , 101, 11
+2024-02-15 21:34:38 - WARNING - Timestamp comd=0 from 101 to 0 for arm state 0 via 101
+2024-02-15 21:34:39 - DEBUG - sent 0.38861190199997964,99, 0 , False
+2024-02-15 21:34:39 - DEBUG - sent 0.591,17.4644893, 78.5940795 , 101, 11
+2024-02-15 21:34:40 - WARNING - Timestamp comd=0 from 101 to 0 for arm state 0 via 101
+2024-02-15 21:34:41 - DEBUG - sent 0.6391312559999847,99, 0 , False
+2024-02-15 21:34:41 - DEBUG - sent 0.601,17.4644895, 78.5940816 , 101, 10
+2024-02-15 21:34:41 - WARNING - Received data from 102
+2024-02-15 21:34:41 - DEBUG - sent 0.601,17.4644895, 78.5940816 , 101, 10
+2024-02-15 21:34:42 - DEBUG - sent 0.596,17.4644895, 78.5940818 , 101, 10
+2024-02-15 21:34:42 - WARNING - Timestamp comd=0 from 101 to 0 for arm state 0 via 101
+2024-02-15 21:34:43 - DEBUG - sent 0.1503014379999854,99, 0 , False
+2024-02-15 21:34:44 - DEBUG - sent 0.562,17.46449, 78.5940832 , 101, 10
+2024-02-15 21:34:45 - WARNING - Timestamp comd=0 from 101 to 0 for arm state 0 via 101
+2024-02-15 21:34:45 - DEBUG - sent 0.33901470799997924,99, 0 , False
+2024-02-15 21:34:46 - DEBUG - sent 0.535,17.4644905, 78.5940834 , 101, 11
+2024-02-15 21:34:47 - WARNING - Timestamp comd=0 from 101 to 0 for arm state 0 via 101
+2024-02-15 21:34:48 - DEBUG - sent 0.5374378860000206,99, 0 , False
+2024-02-15 21:34:48 - WARNING - Timestamp comd=0 from 101 to 0 for arm state 0 via 101
+2024-02-15 21:34:48 - DEBUG - sent 0.6877948389999915,99, 0 , False
+2024-02-15 21:34:48 - WARNING - Timestamp comd=0 from 101 to 0 for arm state 0 via 101
+2024-02-15 21:34:48 - DEBUG - sent 0.7890118089999874,99, 0 , False
+2024-02-15 21:34:48 - WARNING - Timestamp comd=0 from 101 to 0 for arm state 0 via 101
+2024-02-15 21:34:48 - DEBUG - sent 0.9394509649999918,99, 0 , False
+2024-02-15 21:34:48 - WARNING - Timestamp comd=0 from 101 to 0 for arm state 0 via 101
+2024-02-15 21:34:48 - DEBUG - sent 0.05011797800000295,99, 0 , False
+2024-02-15 21:34:48 - WARNING - Timestamp comd=0 from 101 to 0 for arm state 0 via 101
+2024-02-15 21:34:48 - DEBUG - sent 0.15034326799997189,99, 0 , False
+2024-02-15 21:34:48 - DEBUG - sent 0.33800038299995094,99, 0 , False
+2024-02-15 21:34:49 - DEBUG - sent 0.505,17.4644901, 78.5940832 , 102, 11
+2024-02-15 21:34:50 - WARNING - Timestamp comd=0 from 101 to 0 for arm state 0 via 101
+2024-02-15 21:34:51 - DEBUG - sent 0.5374258999999597,99, 0 , False
+2024-02-15 21:34:51 - DEBUG - sent 0.471,17.4644902, 78.5940821 , 102, 10
+2024-02-15 21:34:52 - WARNING - Timestamp comd=0 from 101 to 0 for arm state 0 via 101
+2024-02-15 21:34:52 - DEBUG - sent 0.33742602400002397,99, 0 , False
+2024-02-15 21:34:53 - DEBUG - sent 0.5,17.4644896, 78.5940809 , 102, 11
+2024-02-15 21:34:54 - WARNING - Timestamp comd=0 from 101 to 0 for arm state 0 via 101
+2024-02-15 21:34:55 - DEBUG - sent 0.5374037189999967,99, 0 , False
+2024-02-15 21:34:55 - WARNING - Timestamp comd=0 from 101 to 0 for arm state 0 via 101
+2024-02-15 21:34:56 - WARNING - Timestamp comd=0 from 101 to 0 for arm state 0 via 101
+2024-02-15 21:34:56 - DEBUG - sent 0.3887177320000319,99, 0 , False
+2024-02-15 21:34:57 - DEBUG - sent 0.562,17.4644886, 78.5940795 , 102, 11
+2024-02-15 21:34:58 - WARNING - Timestamp comd=0 from 101 to 0 for arm state 0 via 101
+2024-02-15 21:34:59 - DEBUG - sent 0.58842851899999,99, 0 , False
+2024-02-15 21:34:59 - DEBUG - sent 0.563,17.4644893, 78.594078 , 102, 11
+2024-02-15 21:35:00 - WARNING - Timestamp comd=0 from 101 to 0 for arm state 0 via 101
+2024-02-15 21:35:01 - DEBUG - sent 0.7884858539999868,99, 0 , False
+2024-02-15 21:35:02 - DEBUG - sent 0.522,17.4644908, 78.5940764 , 102, 11
+2024-02-15 21:35:02 - WARNING - Timestamp comd=0 from 101 to 0 for arm state 0 via 101
+2024-02-15 21:35:03 - DEBUG - sent 1.0889000009228766e-05,99, 0 , False
+2024-02-15 21:35:04 - DEBUG - sent 0.541,17.4644917, 78.5940732 , 102, 11
+2024-02-15 21:35:05 - WARNING - Timestamp comd=0 from 101 to 0 for arm state 0 via 101
+2024-02-15 21:35:05 - DEBUG - sent 0.20053032599997778,99, 0 , False
+2024-02-15 21:35:06 - DEBUG - sent 0.606,17.4644901, 78.5940689 , 102, 11
+2024-02-15 21:35:07 - WARNING - Timestamp comd=0 from 101 to 0 for arm state 0 via 101
+2024-02-15 21:35:08 - WARNING - Received data from 102
+2024-02-15 21:35:08 - DEBUG - sent 0.569,17.4644893, 78.5940672 , 102, 11
+2024-02-15 21:35:08 - WARNING - Received data from 100
+2024-02-15 21:35:08 - DEBUG - sent 0.573,17.4644889, 78.5940668 , 102, 11
+2024-02-15 21:35:08 - WARNING - Received data from 100
+2024-02-15 21:35:08 - DEBUG - sent 0.573,17.4644889, 78.5940668 , 102, 11
+2024-02-15 21:35:08 - WARNING - Received data from 102
+2024-02-15 21:35:08 - DEBUG - sent 0.3383242589999895,99, 0 , False
+2024-02-15 21:35:09 - DEBUG - sent 0.62,17.4644876, 78.5940651 , 102, 11
+2024-02-15 21:35:10 - WARNING - Timestamp comd=0 from 101 to 0 for arm state 0 via 101
+2024-02-15 21:35:11 - DEBUG - sent 0.5384706130000154,99, 0 , False
+2024-02-15 21:35:11 - DEBUG - sent 0.639,17.4644858, 78.5940646 , 102, 11
+2024-02-15 21:35:12 - DEBUG - sent 0.8385636159999876,99, 0 , False
+2024-02-15 21:35:12 - WARNING - Timestamp comd=0 from 101 to 0 for arm state 0 via 101
+2024-02-15 21:35:12 - DEBUG - sent 0.888656707999985,99, 0 , False
+2024-02-15 21:35:12 - DEBUG - sent 0.0501001470000233,99, 0 , False
+2024-02-15 21:35:13 - DEBUG - sent 0.614,17.4644854, 78.5940644 , 102, 11
+2024-02-15 21:35:14 - WARNING - Timestamp comd=0 from 101 to 0 for arm state 0 via 101
+2024-02-15 21:35:14 - DEBUG - sent 0.28835549100000435,99, 0 , False
+2024-02-15 21:35:15 - DEBUG - sent 0.635,17.464484, 78.5940648 , 102, 10
+2024-02-15 21:35:16 - WARNING - Timestamp comd=0 from 101 to 0 for arm state 0 via 101
+2024-02-15 21:35:16 - WARNING - Timestamp comd=0 from 101 to 0 for arm state 0 via 101
+2024-02-15 21:35:16 - DEBUG - sent 1.0926000015842874e-05,99, 0 , False
+2024-02-15 21:35:16 - WARNING - Timestamp comd=0 from 101 to 0 for arm state 0 via 101
+2024-02-15 21:35:17 - DEBUG - sent 0.7901142919999984,99, 0 , False
+2024-02-15 21:35:18 - DEBUG - sent 0.55,17.4644881, 78.594069 , 102, 10
+2024-02-15 21:35:18 - WARNING - Timestamp comd=0 from 101 to 0 for arm state 0 via 101
+2024-02-15 21:35:19 - DEBUG - sent 1.2722000008125178e-05,99, 0 , False
+2024-02-15 21:35:20 - DEBUG - sent 0.611,17.4644909, 78.594073 , 102, 10
+2024-02-15 21:35:20 - WARNING - Received data from 100
+2024-02-15 21:35:20 - DEBUG - sent 0.593,17.4644914, 78.5940736 , 102, 10
+2024-02-15 21:35:20 - WARNING - Received data from 102
+2024-02-15 21:35:20 - DEBUG - sent 0.593,17.4644914, 78.5940736 , 102, 10
+2024-02-15 21:35:21 - WARNING - Received data from 102
+2024-02-15 21:35:21 - DEBUG - sent 0.591,17.4644917, 78.5940739 , 102, 10
+2024-02-15 21:35:21 - DEBUG - sent 0.5383131670000125,99, 0 , False
+2024-02-15 21:35:21 - DEBUG - sent 0.598,17.4644918, 78.5940741 , 102, 10
+2024-02-15 21:35:22 - WARNING - Timestamp comd=0 from 101 to 0 for arm state 0 via 101
+2024-02-15 21:35:22 - DEBUG - sent 0.3373063829999978,99, 0 , False
+2024-02-15 21:35:23 - DEBUG - sent 0.642,17.4644911, 78.5940761 , 102, 9
+2024-02-15 21:35:24 - WARNING - Timestamp comd=0 from 101 to 0 for arm state 0 via 101
+2024-02-15 21:35:25 - DEBUG - sent 0.538542284000016,99, 0 , False
+2024-02-15 21:35:25 - DEBUG - sent 0.684,17.4644893, 78.5940769 , 102, 9
+2024-02-15 21:35:25 - WARNING - Received data from 102
+2024-02-15 21:35:25 - DEBUG - sent 0.676,17.464489, 78.5940768 , 102, 9
+2024-02-15 21:35:25 - WARNING - Received data from 102
+2024-02-15 21:35:25 - DEBUG - sent 0.676,17.464489, 78.5940768 , 102, 9
+2024-02-15 21:35:25 - WARNING - Received data from 102
+2024-02-15 21:35:25 - DEBUG - sent 0.678,17.4644887, 78.5940768 , 102, 10
+2024-02-15 21:35:25 - WARNING - Received data from 102
+2024-02-15 21:35:26 - DEBUG - sent 0.678,17.4644887, 78.5940768 , 102, 10
+2024-02-15 21:35:26 - WARNING - Timestamp comd=0 from 101 to 0 for arm state 0 via 101
+2024-02-15 21:35:27 - DEBUG - sent 0.7872621419999746,99, 0 , False
+2024-02-15 21:35:28 - DEBUG - sent 0.67,17.4644838, 78.5940759 , 102, 10
+2024-02-15 21:35:28 - WARNING - Timestamp comd=0 from 101 to 0 for arm state 0 via 101
+2024-02-15 21:35:29 - DEBUG - sent 1.0203999977420608e-05,99, 0 , False
+2024-02-15 21:35:30 - WARNING - Timestamp comd=0 from 101 to 0 for arm state 0 via 101
+2024-02-15 21:35:30 - DEBUG - sent 0.5374319680000212,99, 0 , False
+2024-02-15 21:35:30 - WARNING - Timestamp comd=0 from 101 to 0 for arm state 0 via 101
+2024-02-15 21:35:30 - DEBUG - sent 0.6376429320000057,99, 0 , False
+2024-02-15 21:35:30 - WARNING - Timestamp comd=0 from 101 to 0 for arm state 0 via 101
+2024-02-15 21:35:30 - DEBUG - sent 0.678,17.4644798, 78.5940742 , 102, 8
+2024-02-15 21:35:31 - WARNING - Timestamp comd=0 from 101 to 0 for arm state 0 via 101
+2024-02-15 21:35:31 - DEBUG - sent 0.28737747899998567,99, 0 , False
+2024-02-15 21:35:32 - DEBUG - sent 0.642,17.4644765, 78.5940716 , 102, 8
+2024-02-15 21:35:33 - WARNING - Timestamp comd=0 from 101 to 0 for arm state 0 via 101
+2024-02-15 21:35:34 - DEBUG - sent 0.48732520100003285,99, 0 , False
+2024-02-15 21:35:34 - DEBUG - sent 0.589,17.4644757, 78.5940699 , 102, 9
+2024-02-15 21:35:34 - WARNING - Received data from 102
+2024-02-15 21:35:34 - DEBUG - sent 0.585,17.4644757, 78.5940697 , 102, 10
+2024-02-15 21:35:34 - WARNING - Received data from 102
+2024-02-15 21:35:34 - DEBUG - sent 0.585,17.4644757, 78.5940697 , 102, 10
+2024-02-15 21:35:34 - WARNING - Received data from 102
+2024-02-15 21:35:34 - DEBUG - sent 0.585,17.4644757, 78.5940697 , 102, 10
+2024-02-15 21:35:35 - DEBUG - sent 0.622,17.4644746, 78.5940684 , 102, 10
+2024-02-15 21:35:36 - WARNING - Timestamp comd=0 from 101 to 0 for arm state 0 via 101
+2024-02-15 21:35:36 - WARNING - Received data from 102
+2024-02-15 21:35:36 - DEBUG - sent 0.659,17.4644722, 78.5940667 , 102, 10
+2024-02-15 21:35:37 - DEBUG - sent 0.6877298599999904,99, 0 , False
+2024-02-15 21:35:38 - DEBUG - sent 0.665,17.4644701, 78.5940657 , 102, 10
+2024-02-15 21:35:38 - WARNING - Timestamp comd=0 from 101 to 0 for arm state 0 via 101
+2024-02-15 21:35:39 - DEBUG - sent 0.8896867550000138,99, 0 , False
+2024-02-15 21:35:40 - DEBUG - sent 0.684,17.4644667, 78.5940656 , 102, 10
+2024-02-15 21:35:40 - DEBUG - sent 0.71,17.4644653, 78.5940657 , 102, 10
+2024-02-15 21:35:41 - WARNING - Timestamp comd=0 from 101 to 0 for arm state 0 via 101
+2024-02-15 21:35:41 - DEBUG - sent 0.28891885100000536,99, 0 , False
+2024-02-15 21:35:42 - DEBUG - sent 0.633,17.4644653, 78.594067 , 102, 11
+2024-02-15 21:35:43 - WARNING - Timestamp comd=0 from 101 to 0 for arm state 0 via 101
+2024-02-15 21:35:44 - DEBUG - sent 0.48831638900003327,99, 0 , False
+2024-02-15 21:35:44 - DEBUG - sent 0.637,17.4644705, 78.5940693 , 102, 11
+2024-02-15 21:35:45 - DEBUG - sent 0.388887651999994,99, 0 , False
+2024-02-15 21:35:45 - WARNING - Timestamp comd=0 from 101 to 0 for arm state 0 via 101
+2024-02-15 21:35:45 - WARNING - Timestamp comd=0 from 101 to 0 for arm state 0 via 101
+2024-02-15 21:35:46 - WARNING - Timestamp comd=0 from 101 to 0 for arm state 0 via 101
+2024-02-15 21:35:46 - DEBUG - sent 0.6886038929999927,99, 0 , False
+2024-02-15 21:35:46 - DEBUG - sent 0.721,17.4644757, 78.5940712 , 102, 10
+2024-02-15 21:35:47 - WARNING - Timestamp comd=0 from 101 to 0 for arm state 0 via 101
+2024-02-15 21:35:48 - DEBUG - sent 0.7885507009999628,99, 0 , False
+2024-02-15 21:35:49 - DEBUG - sent 0.787,17.4644817, 78.5940715 , 102, 10
+2024-02-15 21:35:49 - WARNING - Timestamp comd=0 from 101 to 0 for arm state 0 via 101
+2024-02-15 21:35:50 - DEBUG - sent 0.819,17.464485, 78.5940713 , 102, 11
+2024-02-15 21:35:50 - DEBUG - sent 0.818,17.4644866, 78.5940714 , 102, 11
+2024-02-15 21:35:51 - WARNING - Timestamp comd=0 from 101 to 0 for arm state 0 via 101
+2024-02-15 21:35:52 - DEBUG - sent 0.8385035040000162,99, 0 , False
+2024-02-15 21:35:53 - DEBUG - sent 0.787,17.4644928, 78.5940713 , 102, 10
+2024-02-15 21:35:53 - CRITICAL - GPS Glitch or Compass error
+2024-02-15 21:35:53 - WARNING - Timestamp comd=0 from 101 to 0 for arm state 0 via 101
+2024-02-15 21:35:54 - WARNING - Timestamp comd=0 from 101 to 0 for arm state 0 via 101
+2024-02-15 21:35:54 - DEBUG - sent 0.93874731599999,99, 0 , False
+2024-02-15 21:35:55 - DEBUG - sent 0.796,17.4644892, 78.5940694 , 102, 11
+2024-02-15 21:35:55 - WARNING - Timestamp comd=0 from 101 to 0 for arm state 0 via 101
+2024-02-15 21:35:56 - DEBUG - sent 0.050146040000015546,99, 0 , False
+2024-02-15 21:35:57 - DEBUG - sent 0.772,17.4644801, 78.5940661 , 102, 11
+2024-02-15 21:35:58 - WARNING - Timestamp comd=0 from 101 to 0 for arm state 0 via 101
+2024-02-15 21:35:58 - DEBUG - sent 0.9882637560000376,99, 0 , False
+2024-02-15 21:35:58 - WARNING - Timestamp comd=0 from 101 to 0 for arm state 0 via 101
+2024-02-15 21:35:58 - DEBUG - sent 0.05011839200000168,99, 0 , False
+2024-02-15 21:35:58 - WARNING - Timestamp comd=0 from 101 to 0 for arm state 0 via 101
+2024-02-15 21:35:58 - DEBUG - sent 0.1503338059999919,99, 0 , False
+2024-02-15 21:35:59 - DEBUG - sent 0.6889406430000236,99, 0 , False
+2024-02-15 21:36:00 - DEBUG - sent 0.736,17.4644716, 78.5940619 , 102, 10
+2024-02-15 21:36:00 - WARNING - Timestamp comd=0 from 101 to 0 for arm state 0 via 101
+2024-02-15 21:36:01 - DEBUG - sent 0.8889419860000203,99, 0 , False
+2024-02-15 21:36:02 - DEBUG - sent 0.738,17.4644641, 78.5940586 , 102, 10
+2024-02-15 21:36:02 - DEBUG - sent 0.2383859130000019,99, 0 , False
+2024-02-15 21:36:02 - WARNING - Timestamp comd=0 from 101 to 0 for arm state 0 via 101
+2024-02-15 21:36:02 - DEBUG - sent 0.2902517790000161,99, 0 , False
+2024-02-15 21:36:02 - WARNING - Timestamp comd=0 from 101 to 0 for arm state 0 via 101
+2024-02-15 21:36:03 - DEBUG - sent 0.741,17.4644599, 78.594057 , 102, 9
+2024-02-15 21:36:04 - WARNING - Timestamp comd=0 from 101 to 0 for arm state 0 via 101
+2024-02-15 21:36:04 - DEBUG - sent 0.28709207600002173,99, 0 , False
+2024-02-15 21:36:05 - DEBUG - sent 0.689,17.464453, 78.5940534 , 102, 9
+2024-02-15 21:36:06 - WARNING - Timestamp comd=0 from 101 to 0 for arm state 0 via 101
+2024-02-15 21:36:07 - DEBUG - sent 0.48830235799999855,99, 0 , False
+2024-02-15 21:36:07 - DEBUG - sent 0.709,17.4644476, 78.5940487 , 102, 9
+2024-02-15 21:36:08 - WARNING - Timestamp comd=0 from 101 to 0 for arm state 0 via 101
+2024-02-15 21:36:09 - DEBUG - sent 0.6878827829999636,99, 0 , False
+2024-02-15 21:36:10 - DEBUG - sent 1.393,17.4644366, 78.5940432 , 155, 10
+2024-02-15 21:36:10 - WARNING - Timestamp comd=0 from 101 to 0 for arm state 0 via 101
+2024-02-15 21:36:11 - DEBUG - sent 0.6375538769999594,99, 0 , False
+2024-02-15 21:36:11 - WARNING - Timestamp comd=0 from 101 to 0 for arm state 0 via 101
+2024-02-15 21:36:11 - DEBUG - sent 0.6876601249999794,99, 0 , False
+2024-02-15 21:36:11 - DEBUG - sent 1.711,17.4644284, 78.594044 , 225, 10
+2024-02-15 21:36:12 - WARNING - Timestamp comd=0 from 101 to 0 for arm state 0 via 101
+2024-02-15 21:36:13 - DEBUG - sent 0.43752911100000347,99, 0 , False
+2024-02-15 21:36:13 - DEBUG - sent 2.367,17.4644222, 78.5940416 , 275, 10
+2024-02-15 21:36:14 - WARNING - Timestamp comd=0 from 101 to 0 for arm state 0 via 101
+2024-02-15 21:36:14 - DEBUG - sent 0.23780802499999254,99, 0 , False
+2024-02-15 21:36:15 - DEBUG - sent 3.073,17.46442, 78.5940421 , 289, 10
+2024-02-15 21:36:16 - WARNING - Timestamp comd=0 from 101 to 0 for arm state 0 via 101
+2024-02-15 21:36:17 - DEBUG - sent 0.48836158900002147,99, 0 , False
+2024-02-15 21:36:17 - DEBUG - sent 3.714,17.4644077, 78.5940508 , 230, 10
+2024-02-15 21:36:17 - WARNING - Received data from 102
+2024-02-15 21:36:17 - DEBUG - sent 3.714,17.4644077, 78.5940508 , 230, 10
+2024-02-15 21:36:17 - WARNING - Received data from 102
+2024-02-15 21:36:17 - DEBUG - sent 3.787,17.4644072, 78.594052 , 229, 10
+2024-02-15 21:36:17 - WARNING - Received data from 102
+2024-02-15 21:36:17 - DEBUG - sent 3.787,17.4644072, 78.594052 , 229, 10
+2024-02-15 21:36:17 - WARNING - Received data from 102
+2024-02-15 21:36:17 - DEBUG - sent 3.856,17.464406, 78.5940527 , 222, 10
+2024-02-15 21:36:18 - DEBUG - sent 4.015,17.4644051, 78.5940539 , 223, 8
+2024-02-15 21:36:19 - WARNING - Timestamp comd=0 from 101 to 0 for arm state 0 via 101
+2024-02-15 21:36:19 - DEBUG - sent 0.33849934299996676,99, 0 , False
+2024-02-15 21:36:20 - DEBUG - sent 4.135,17.4644156, 78.5940449 , 216, 7
+2024-02-15 21:36:21 - WARNING - Timestamp comd=0 from 101 to 0 for arm state 0 via 101
+2024-02-15 21:36:22 - WARNING - Timestamp comd=0 from 101 to 0 for arm state 0 via 101
+2024-02-15 21:36:22 - DEBUG - sent 0.4384801639999978,99, 0 , False
+2024-02-15 21:36:22 - WARNING - Timestamp comd=0 from 101 to 0 for arm state 0 via 101
+2024-02-15 21:36:22 - DEBUG - sent 0.536975544000029,99, 0 , False
+2024-02-15 21:36:22 - WARNING - Timestamp comd=0 from 101 to 0 for arm state 0 via 101
+2024-02-15 21:36:22 - DEBUG - sent 0.6873082769999996,99, 0 , False
+2024-02-15 21:36:22 - WARNING - Timestamp comd=0 from 101 to 0 for arm state 0 via 101
+2024-02-15 21:36:22 - DEBUG - sent 0.7883675150000045,99, 0 , False
+2024-02-15 21:36:22 - WARNING - Timestamp comd=0 from 101 to 0 for arm state 0 via 101
+2024-02-15 21:36:22 - DEBUG - sent 0.8886331460000179,99, 0 , False
+2024-02-15 21:36:22 - WARNING - Timestamp comd=0 from 101 to 0 for arm state 0 via 101
+2024-02-15 21:36:22 - DEBUG - sent 0.050351583000008304,99, 0 , False
+2024-02-15 21:36:22 - DEBUG - sent 0.20079855700004146,99, 0 , False
+2024-02-15 21:36:23 - DEBUG - sent 4.161,17.4644401, 78.5940278 , 249, 6
+2024-02-15 21:36:24 - WARNING - Timestamp comd=0 from 101 to 0 for arm state 0 via 101
+2024-02-15 21:36:24 - DEBUG - sent 0.6893371630000047,99, 0 , False
+2024-02-15 21:36:24 - WARNING - Timestamp comd=0 from 101 to 0 for arm state 0 via 101
+2024-02-15 21:36:24 - DEBUG - sent 0.7884741700000291,99, 0 , False
+2024-02-15 21:36:24 - WARNING - Timestamp comd=0 from 101 to 0 for arm state 0 via 101
+2024-02-15 21:36:25 - DEBUG - sent 0.9385534659999735,99, 0 , False
+2024-02-15 21:36:26 - DEBUG - sent 4.558,17.4644509, 78.5940313 , 244, 5
+2024-02-15 21:36:26 - WARNING - Timestamp comd=0 from 101 to 0 for arm state 0 via 101
+2024-02-15 21:36:27 - DEBUG - sent 0.15033208799997055,99, 0 , False
+2024-02-15 21:36:28 - DEBUG - sent 0.8384182140000007,99, 0 , False
+2024-02-15 21:36:29 - DEBUG - sent 3.001,17.4644461, 78.5940199 , 244, 5
+2024-02-15 21:36:29 - WARNING - Timestamp comd=0 from 101 to 0 for arm state 0 via 101
+2024-02-15 21:36:30 - DEBUG - sent 0.9387449479999646,99, 0 , False
+2024-02-15 21:36:31 - DEBUG - sent 2.316,17.4644595, 78.594038 , 251, 7
+2024-02-15 21:36:31 - WARNING - Timestamp comd=0 from 101 to 0 for arm state 0 via 101
+2024-02-15 21:36:32 - DEBUG - sent 0.15036157299999786,99, 0 , False
+2024-02-15 21:36:33 - DEBUG - sent 2.427,17.4644619, 78.5940514 , 236, 6
+2024-02-15 21:36:34 - WARNING - Timestamp comd=0 from 101 to 0 for arm state 0 via 101
+2024-02-15 21:36:35 - DEBUG - sent 0.38853687799996806,99, 0 , False
+2024-02-15 21:36:35 - DEBUG - sent 2.305,17.4644321, 78.5940592 , 273, 6
+2024-02-15 21:36:36 - WARNING - Timestamp comd=0 from 101 to 0 for arm state 0 via 101
+2024-02-15 21:36:37 - DEBUG - sent 0.5885364540000069,99, 0 , False
+2024-02-15 21:36:37 - WARNING - Timestamp comd=0 from 101 to 0 for arm state 0 via 101
+2024-02-15 21:36:38 - DEBUG - sent 0.7884848070000317,99, 0 , False
+2024-02-15 21:36:39 - DEBUG - sent 2.303,17.4644121, 78.5940679 , 273, 7
+2024-02-15 21:36:39 - WARNING - Timestamp comd=0 from 101 to 0 for arm state 0 via 101
+2024-02-15 21:36:40 - DEBUG - sent 1.1943999993491161e-05,99, 0 , False
+2024-02-15 21:36:41 - DEBUG - sent 0.6875921800000242,99, 0 , False
+2024-02-15 21:36:41 - WARNING - Timestamp comd=0 from 101 to 0 for arm state 0 via 101
+2024-02-15 21:36:41 - DEBUG - sent 0.7384148020000225,99, 0 , False
+2024-02-15 21:36:41 - WARNING - Timestamp comd=0 from 101 to 0 for arm state 0 via 101
+2024-02-15 21:36:42 - DEBUG - sent 0.5383789140000204,99, 0 , False
+2024-02-15 21:36:42 - DEBUG - sent 2.29,17.4643608, 78.5940241 , 273, 7
+2024-02-15 21:36:43 - WARNING - Timestamp comd=0 from 101 to 0 for arm state 0 via 101
+2024-02-15 21:36:44 - DEBUG - sent 0.7373028890000342,99, 0 , False
+2024-02-15 21:36:45 - DEBUG - sent 2.286,17.4643539, 78.5940134 , 272, 7
+2024-02-15 21:36:45 - WARNING - Timestamp comd=0 from 101 to 0 for arm state 0 via 101
+2024-02-15 21:36:46 - DEBUG - sent 0.9389546319999909,99, 0 , False
+2024-02-15 21:36:47 - DEBUG - sent 2.237,17.464346, 78.5940088 , 272, 7
+2024-02-15 21:36:47 - WARNING - Timestamp comd=0 from 101 to 0 for arm state 0 via 101
+2024-02-15 21:36:48 - DEBUG - sent 0.15026523000000225,99, 0 , False
+2024-02-15 21:36:49 - DEBUG - sent 2.164,17.4643291, 78.5939986 , 272, 6
+2024-02-15 21:36:49 - DEBUG - sent 0.05009881199998745,99, 0 , False
+2024-02-15 21:36:49 - WARNING - Timestamp comd=0 from 101 to 0 for arm state 0 via 101
+2024-02-15 21:36:49 - DEBUG - sent 0.1502995829999918,99, 0 , False
+2024-02-15 21:36:49 - WARNING - Timestamp comd=0 from 101 to 0 for arm state 0 via 101
+2024-02-15 21:36:49 - DEBUG - sent 0.2874145760000033,99, 0 , False
+2024-02-15 21:36:49 - WARNING - Timestamp comd=0 from 101 to 0 for arm state 0 via 101
+2024-02-15 21:36:50 - DEBUG - sent 0.38804562299998224,99, 0 , False
+2024-02-15 21:36:50 - DEBUG - sent 0.9375575939999976,99, 0 , False
+2024-02-15 21:36:51 - DEBUG - sent 2.136,17.4643198, 78.5939926 , 272, 6
+2024-02-15 21:36:51 - WARNING - Timestamp comd=0 from 101 to 0 for arm state 0 via 101
+2024-02-15 21:36:52 - DEBUG - sent 0.15027725100003408,99, 0 , False
+2024-02-15 21:36:53 - DEBUG - sent 2.134,17.4643184, 78.5939965 , 272, 6
+2024-02-15 21:36:54 - DEBUG - sent 2.138,17.4643192, 78.5940012 , 272, 6
+2024-02-15 21:36:54 - DEBUG - sent 0.9873982699999715,99, 0 , False
+2024-02-15 21:36:55 - DEBUG - sent 2.182,17.4643201, 78.5940059 , 272, 7
+2024-02-15 21:36:55 - WARNING - Timestamp comd=0 from 101 to 0 for arm state 0 via 101
+2024-02-15 21:36:56 - DEBUG - sent 0.15034097500000598,99, 0 , False
+2024-02-15 21:36:57 - DEBUG - sent 2.189,17.4643499, 78.5940203 , 271, 6
+2024-02-15 21:36:58 - WARNING - Timestamp comd=0 from 101 to 0 for arm state 0 via 101
+2024-02-15 21:36:59 - DEBUG - sent 0.38869448200000534,99, 0 , False
+2024-02-15 21:36:59 - DEBUG - sent 2.214,17.4643641, 78.5940293 , 271, 6
+2024-02-15 21:37:00 - DEBUG - sent 0.6909343529999887,99, 0 , False
+2024-02-15 21:37:00 - WARNING - Timestamp comd=0 from 101 to 0 for arm state 0 via 101
+2024-02-15 21:37:01 - DEBUG - sent 0.43862329699999236,99, 0 , False
+2024-02-15 21:37:01 - DEBUG - sent 2.238,17.464365, 78.5940375 , 271, 6
+2024-02-15 21:37:02 - WARNING - Timestamp comd=0 from 101 to 0 for arm state 0 via 101
+2024-02-15 21:37:03 - DEBUG - sent 0.6385459070000366,99, 0 , False
+2024-02-15 21:37:03 - DEBUG - sent 2.178,17.4643747, 78.5940672 , 271, 7
+2024-02-15 21:37:04 - WARNING - Timestamp comd=0 from 101 to 0 for arm state 0 via 101
+2024-02-15 21:37:04 - DEBUG - sent 0.7381425010000271,99, 0 , False
+2024-02-15 21:37:04 - WARNING - Timestamp comd=0 from 101 to 0 for arm state 0 via 101
+2024-02-15 21:37:04 - DEBUG - sent 0.8891279200000213,99, 0 , False
+2024-02-15 21:37:05 - DEBUG - sent 0.3886467840000023,99, 0 , False
+2024-02-15 21:37:05 - DEBUG - sent 2.11,17.464386, 78.5940804 , 271, 7
+2024-02-15 21:37:06 - WARNING - Timestamp comd=0 from 101 to 0 for arm state 0 via 101
+2024-02-15 21:37:06 - DEBUG - sent 2.145,17.4643875, 78.5940872 , 271, 7
