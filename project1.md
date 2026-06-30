@@ -568,3 +568,13 @@ During the design and construction of the database and dashboard, the developmen
 4.  **Dashboard Visual Overload**:
     *   *Challenge*: Cramming all metrics into a single screen made the dashboard cluttered and difficult to navigate.
     *   *Resolution*: Segregated the dashboards into four logical pages, each addressing a specific user persona (Executive, Stock Manager, Sales Rep, Financial Analyst), resulting in a clean, visual experience.
+  
+## 12. Output Screenshot 
+
+sql queries handling 
+<img width="1600" height="900" alt="1000135861" src="https://github.com/user-attachments/assets/c41cfe3f-bea5-49c0-b13d-c5cc07292198" />
+<img width="1600" height="900" alt="1000135860" src="https://github.com/user-attachments/assets/dbdf7e61-94b9-488a-a1c5-a2f5e8dd9779" />
+
+final output of the project 
+<img width="1600" height="900" alt="1000135859" src="https://github.com/user-attachments/assets/888a807f-bca9-45fa-aa53-cca7b1d67714" />
+
